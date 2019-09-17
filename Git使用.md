@@ -6,9 +6,9 @@
 
 2. 配置邮箱以及用户名
 
-> git config --global user.email "2870111048@qq.com"
+> git config --global user.email "xx.com"
 >
-> git config --global user.name "WitheredLotus"
+> git config --global user.name "xx"
 
 3. 提交代码
 
